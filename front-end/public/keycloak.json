@@ -1,0 +1,8 @@
+{
+    "realm": "administration-project",
+    "auth-server-url": "http://localhost:8080/",
+    "ssl-required": "external",
+    "resource": "administration-vuejs",
+    "public-client": true,
+    "confidential-port": 0
+  }
